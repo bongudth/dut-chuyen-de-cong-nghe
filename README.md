@@ -1,6 +1,6 @@
 # Chuyên đề Công nghệ
 
-# Thành viên
+## Thành viên
 - Đoàn Tân Tỵ
 - Trương Quang Định
 - Huỳnh Thị Ái Linh
